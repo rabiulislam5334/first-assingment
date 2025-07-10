@@ -4,6 +4,60 @@
 .raleway-fornt {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
+/*{
+    background-color: #f5f8ff;
+}*/
+*{
+    margin: 0;
+}
+/* header style*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+}
+.header-btn{
+    font-size: 16px;
+    font-weight: bold;
+    background: #4E47FF;
+    color: #FFFFFF;
+    padding:10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.header-btn:hover{
+    background: rgba(255, 68, 0, 0.712);
+}
+header{
+    background: url(../images/Hero-bg.png);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 ;
+    align-items: center;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     
+}
+   
+.hero-content{
+padding: 152px 267px;
+text-align: center;
+font-size: 65px;
+font-weight: bold;
+}
+   
+main{max-width: 1140px;
+    margin: auto;}
+
+
