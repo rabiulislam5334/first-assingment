@@ -194,6 +194,9 @@ padding: 24px;
     padding: 10px 0;
     font-size: 18px;
 }
+.date{
+    color: #252432;
+}
 /*contact*/
 .contact{
     display: flex;
@@ -229,7 +232,7 @@ width: 100%;}
         padding-bottom: 15px;
         padding-left: 30px;
 
-        margin: 20px 0;
+        margin: 15px 0;
         
          border: 1px solid #1b1515;
  
@@ -273,7 +276,7 @@ padding: 130px;
     color:orangered;
 
 }
-.logo{
+.footer-logo{
     width: 150px;
     padding-bottom: 20px;
     border-radius: 20%;
