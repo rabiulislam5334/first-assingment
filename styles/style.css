@@ -290,6 +290,30 @@ padding: 130px;
 {
     padding: 10px 0px;
 }
+/*focus*/
+.focus{
+    display: block;
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 60px ;
+    border-radius: 20px;
+    
+}
+.focus-details h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+.focus-details p{
+   padding: 20px 0;
+}
+.focus-details{
+ padding: 20px;
+}
+.focus-photo{
+    border-radius: 50px;
+    margin-top: 20px;
+}
+  
   
 
  
